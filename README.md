@@ -27,5 +27,4 @@ Components are deployed as pods within a Kubernetes cluster, providing isolation
 ## How It Works
 
 Each folder contains its project and DockerFile to generate its image. The Kubernetes folder stores the yaml deployment and service files to use.
-
-![image](https://github.com/Nico1500/Networking_Kubernetes/assets/63806892/9a92d86d-64d7-4927-aed2-b734e1e6f0ce)
+![image](https://github.com/Nico1500/NetworkingKubernetes/assets/63806892/0540dd78-ff31-493f-a20c-d250fc7830a0)
